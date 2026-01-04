@@ -1,16 +1,15 @@
-# flutter_social_feed
+# Flutter Social Media Feed
 
-A new Flutter project.
+A Flutter social media feed application featuring:
+- Authentication UI (Login & Sign Up)
+- Social feed with posts
+- Dark & light mode
+- Clean architecture
+- Flutter Web ready
 
-## Getting Started
+## Tech Stack
+- Flutter
+- Dart
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Status
+UI complete. Backend integration (Firebase) can be added later.
